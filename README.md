@@ -77,7 +77,8 @@ A Web quando foi criada tinha três elementos fundamentais que são usados até 
 | **URL (Uniform Resource Locator)**     	| É um tipo de "endereço" que é único para cada pesquisa na web.                                                                 	|
 
 <br>
-Os websites ficam hospedados em servidores de web \(*Web Servers*\), que são computadores onde os arquivos ficam armazenados e podem ser acessados via Internet usando HTTP. <br>
+
+Os websites ficam hospedados em servidores de web, os (*Web Servers*), que são computadores onde os arquivos ficam armazenados e podem ser acessados via Internet usando HTTP. <br>
 
 Historicamente, a World Wide Web surgiu de uma necessidade de se facilitar a trasmissão de dados, facilitar o uso e acesso à Internet e a comunicação entre pessoas.
 Muitas pessoas confundem Internet e Web e isso é normal. Mas, resumindo a diferença entre Internet e Web, temos: a Internet como a estrutura física da conexão entre computadores, e a Web são arquivos, dados transmitidos por essa estrutura física. É claro que não dá para abordar todas os detalhes desse universo num único texto, então ficamos por aqui. Para mais informações só consultar as referências indicadas no texto e as que estão logo abaixo. Obrigada pela leitura!
@@ -87,7 +88,7 @@ Muitas pessoas confundem Internet e Web e isso é normal. Mas, resumindo a difer
 
 ***
 
-**Referências:**
+**Referências:** <br>
 *[How The Internet Works. Django Girls.](https://tutorial.djangogirls.org/en/how_the_internet_works/)* <br>
 *[Como funciona a internet. Brincando com Ideias.](youtube.com/watch?v=1G48PTHxMco&t=1662s)* <br>
 *[O que é TCP/IP](https://www.tecmundo.com.br/o-que-e/780-o-que-e-tcp-ip-.htm)* <br>
