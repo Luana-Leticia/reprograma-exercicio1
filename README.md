@@ -78,7 +78,7 @@ A Web quando foi criada tinha três elementos fundamentais que são usados até 
 
 <br>
 
-Os websites ficam hospedados em servidores de web, os (*Web Servers*), que são computadores onde os arquivos ficam armazenados e podem ser acessados via Internet usando HTTP. <br>
+Os websites ficam hospedados em servidores de web (*Web Servers*), que são computadores onde os arquivos ficam armazenados e podem ser acessados via Internet usando HTTP. <br>
 
 Historicamente, a World Wide Web surgiu de uma necessidade de se facilitar a trasmissão de dados, facilitar o uso e acesso à Internet e a comunicação entre pessoas.
 Muitas pessoas confundem Internet e Web e isso é normal. Mas, resumindo a diferença entre Internet e Web, temos: a Internet como a estrutura física da conexão entre computadores, e a Web são arquivos, dados transmitidos por essa estrutura física. É claro que não dá para abordar todas os detalhes desse universo num único texto, então ficamos por aqui. Para mais informações só consultar as referências indicadas no texto e as que estão logo abaixo. Obrigada pela leitura!
@@ -91,7 +91,7 @@ Muitas pessoas confundem Internet e Web e isso é normal. Mas, resumindo a difer
 **Referências:** <br>
 *[How The Internet Works. Django Girls.](https://tutorial.djangogirls.org/en/how_the_internet_works/)* <br>
 *[Como funciona a internet. Brincando com Ideias.](youtube.com/watch?v=1G48PTHxMco&t=1662s)* <br>
-*[O que é TCP/IP](https://www.tecmundo.com.br/o-que-e/780-o-que-e-tcp-ip-.htm)* <br>
+*[O que é TCP/IP. TecMundo.](https://www.tecmundo.com.br/o-que-e/780-o-que-e-tcp-ip-.htm)* <br>
 *[A diferença entre Internet e World Wide Web. Canaltech.](https://canaltech.com.br/entretenimento/qual-a-diferenca-entre-internet-e-world-wide-web/)* <br>
 *[What is the World Wide Web? BBC Bitesize](https://www.bbc.co.uk/bitesize/topics/zkcqn39/articles/z2nbgk7)* <br>
 *[Como a Internet chega na sua casa. TechTudo](https://www.techtudo.com.br/noticias/noticia/2011/07/como-internet-chega-na-sua-casa.html)*
