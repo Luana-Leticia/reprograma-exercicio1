@@ -70,10 +70,11 @@ A ***World Wide Web*** também conhecida como **WWW** ou simplesmente **Web**, �
 
 A Web quando foi criada tinha três elementos fundamentais que são usados até hoje, são eles: o HTML, o HTTP e a URL. Os conceitos destes elementos estão reunidos na tabela abaixo: 
 
-| ------------- | ----------------------------------- |
-| HTML ((Hyper Text Markup Language) | É o formatação básica de publicação para a Web. Além de formatar documentos, permite linkar outros documentos e pesquisas. |
-| HTTP (Hypertext Transfer Protocol) | Permite que documentos HTML sejam requisitados e transmitidos entre navegadores e servidores de web via Internet. |
-| URL (Uniform Resource Locator) | É um tipo de "endereço" que é único para cada pesquisa na web. |
+| Elemento                           	| Descrição                                                                                                                      	|
+|------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------	|
+| HTML ((Hyper Text Markup Language) 	| É o formatação básica de publicação para a Web. Além de <br>formatar documentos, permite linkar outros documentos e pesquisas. 	|
+| HTTP (Hypertext Transfer Protocol) 	| Permite que documentos HTML sejam requisitados e transmitidos entre <br>navegadores e servidores de web via Internet.          	|
+| URL (Uniform Resource Locator)     	| É um tipo de "endereço" que é único para cada pesquisa na web.                                                                 	|
 
 Os websites ficam hospedados em servidores de web (*Web Servers*), que são computadores onde os arquivos ficam armazenados e podem ser acessados via Internet usando HTTP.
 
