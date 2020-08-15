@@ -6,12 +6,11 @@ As gerações y e z estão tão acostumadas com Internet e com o seu fácil aces
 - Como funciona?
     - Rede local e rede pública
     - O TCP/IP
-    - Por que a Internet é tão veloz?
 - Quem fornece a internet?
 - Como funcionam os websites?
 - DNS: por que não precisamos decorar os IP dos computadores que queremos visitar
+- Por que a Internet é tão veloz?
 - A World Web Wide (WWW)
-    - O DNS
 
 ***
 
@@ -36,10 +35,10 @@ Existem cabos que permitem um fluxo de vários terabytes de informações, entã
 
 ### Rede local e Rede externa
 A **rede local** é uma rede de computadores e equipamentos eletrônicos restrita a um espaço físico como uma casa, uma empresa ou um prédio. É chamada de LAN (*Local Area Network*). Numa rede local, é possível configurar os computadores para terem acesso aos arquivos e aos sistemas dos computadores pertencentes a mesma rede.
-A **rede externa** é basicamente toda a rede externa à nossa rede local, é a Internet. Quando contratamos um srviço de Internet, estamos pedindo para nos conectar aos demais computadores do mundo.
-Como? A rede local se conecta com a rede externa por meio do roteador, que é a interface entre os dois. O roteador funciona basicamente como um portão que controla o acesso da rede externa (geral) para a rede local. Assim, nós temos o controle das informações na nossa rede local que queremos enviar para a rede externa e do que queremos receber também.
+A **rede externa** é basicamente toda a rede externa à nossa rede local, é a Internet. Quando contratamos um serviço de Internet, estamos pedindo para nos conectar aos demais computadores do mundo.
+Como? A rede local se conecta com a rede externa por meio do roteador, que é a interface entre os dois. O roteador funciona basicamente como um portão que controla o acesso da rede externa (geral) para a rede local. Assim, nós temos o controle das informações na nossa rede local e decidimos o que queremos enviar ou receber da rede externa.
 
-Mas como se dá esse controle? O nosso roteador cria um IP (Internet Protocol) para os nossos computadores da rede local e permite a comunicação entre eles. Já para se comunicar com a *Internet*, ele cria um IP, que este sim pode ser acessado pela rede externa, e nós que decidimos o que atravessa o roteador para chegar à parte externa ou não.
+Mas como se dá esse controle? O nosso roteador cria um IP (Internet Protocol) para os nossos computadores da rede local e permite a comunicação entre eles. Já para se comunicar com a *Internet*, ele cria um outro IP, que este sim pode ser acessado pela rede externa, e nós que decidimos o que atravessa o roteador para chegar à parte externa ou não.
 
 *![LAN - Local Area Network](assets/LAN.jpg "LAN Local Area Netwok")*
 
@@ -58,19 +57,26 @@ O que é importante ter em mente é que quando estamos acessando um site no noss
 Outra coisa importante de entender, é que esses dados são enviados para nós através daqueles cabos de internet que foram falados do início do artigo. Para vermos como a Internet é física!
 
 ## DNS: por que não precisamos decorar os IP dos computadores que queremos visitar
-Imagine se ao acessar um site como o GitHub, tivéssemos que saber exatamente o endereço do PC em que está hospedado o site do GitHub. Seria uma tarefa muito complicada acessar e decorar o endereço de qualquer site, e é por isso existe o DNS (Domain Name System - Sistemas de nomes de domínios), que traduzem o IP para um nome mais fácil de decorar.
+Imagine se ao acessar um site como o *GitHub*, tivéssemos que saber exatamente o endereço do PC em que está hospedado o site do *GitHub*. Seria uma tarefa muito complicada acessar e decorar o endereço de qualquer site, e é por isso existe o DNS (Domain Name System - Sistemas de nomes de domínios), que traduzem o IP para um nome mais fácil de decorar. Assim, só digitando <github.com> você acessa facilmente o website do *GitHub*.
+
+## Por que a Internet é tão veloz?
+Você já se perguntou porque a internet é tão rápida? Por exemplo, podemos acessar um site que está hospedado em Los Angeles (mesmo não sabendo disso), mas é só pesquisar no *Google* e em menos de um segundo, o website aparece na nossa tela, por que será? Isso acontece porque assim outros meios de comunicação, a Internet utiliza várias formas de energia eletromagnética para a transmissão de seus dados, e energia eletromagnética viaja muito rápido, cerca de 300.000 km/s (velocidade da luz).
+
+![Imagem do Flash](assets/flash.gif "Flash")
+
 
 ## A World Web Wide (WWW)
-A ***World Wide Web*** também conhecida como WWW ou simplesmente Web, é a coleção de todos os websites que podem ser encontrados na Internet, ou, melhor dizendo, é caminho que permite o acesso a estes. Para isso, é necessário um navegador para ler os websites. O navegador é onde você vê imagens, textos e vídeos, onde envia e recebe coisas e também onde se conecta a outras pessoas. E o ato de clicar em links, visitar websites e interagir com o conteúdo oferecido na web se chama navegar.
+A ***World Wide Web*** também conhecida como **WWW** ou simplesmente **Web**, é a coleção de todos os websites que podem ser encontrados na Internet, ou, melhor dizendo, é caminho que permite o acesso a estes. Para isso, é necessário um navegador para ler os websites. O navegador é onde você vê imagens, textos e vídeos, onde envia e recebe coisas e também onde se conecta a outras pessoas. E o ato de clicar em links, visitar websites e interagir com o conteúdo oferecido na web se chama navegar.
 
 A Web quando foi criada tinha três elementos fundamentais que são usados até hoje, são eles: o HTML, o HTTP e a URL. Os conceitos destes elementos estão reunidos na tabela abaixo: 
 
--------------|-----------------------------------
-HTML ((Hyper Text Markup Language)| É o formatação básico de publicação para a Web. Além de formatar documentos, permite linkar outros documentos e pesquisas.
-HTTP (Hypertext Transfer Protocol) | Permite que documentos HTML sejam requisitados e transmitidos entre navegadores e servidores de web via Internet.
-URL (Uniform Resource Locator) | É um tipo de "endereço" que é único para cada pesquisa na web.
+| ------------- | ----------------------------------- |
+| HTML ((Hyper Text Markup Language) | É o formatação básica de publicação para a Web. Além de formatar documentos, permite linkar outros documentos e pesquisas. |
+| HTTP (Hypertext Transfer Protocol) | Permite que documentos HTML sejam requisitados e transmitidos entre navegadores e servidores de web via Internet. |
+| URL (Uniform Resource Locator) | É um tipo de "endereço" que é único para cada pesquisa na web. |
 
 Os websites ficam hospedados em servidores de web (*Web Servers*), que são computadores onde os arquivos ficam armazenados e podem ser acessados via Internet usando HTTP.
+
 Historicamente, a World Wide Web surgiu de uma necessidade de se facilitar a trasmissão de dados, facilitar o uso e acesso à Internet e a comunicação entre pessoas.
 
 Muitas pessoas confundem Internet e Web e isso é normal. Mas, resumindo a diferença entre Internet e Web, temos: a Internet como a estrutura física da conexão entre computadores, e a Web são arquivos, dados transmitidos por essa estrutura física. É claro que não dá para abordar todas os detalhes desse universo num único texto, então ficamos por aqui. Para mais informações só consultar as referências indicadas no texto e as que estão logo abaixo. Obrigada pela leitura!
@@ -85,5 +91,5 @@ Muitas pessoas confundem Internet e Web e isso é normal. Mas, resumindo a difer
 *[Como funciona a internet. Brincando com Ideias.](youtube.com/watch?v=1G48PTHxMco&t=1662s)*
 *[O que é TCP/IP](https://www.tecmundo.com.br/o-que-e/780-o-que-e-tcp-ip-.htm)*
 *[A diferença entre Internet e World Wide Web. Canaltech.](https://canaltech.com.br/entretenimento/qual-a-diferenca-entre-internet-e-world-wide-web/)*
-
 *[What is the World Wide Web? BBC Bitesize](https://www.bbc.co.uk/bitesize/topics/zkcqn39/articles/z2nbgk7)*
+*[Como a Internet chega na sua casa. TechTudo](https://www.techtudo.com.br/noticias/noticia/2011/07/como-internet-chega-na-sua-casa.html)*
